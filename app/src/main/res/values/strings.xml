@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Myra AI</string>
+    <string name="acc_desc">Allows Myra AI to read screen elements and tap buttons automatically for you.</string>
+</resources>
